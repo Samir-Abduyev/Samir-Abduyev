@@ -2,11 +2,9 @@
   <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&text=Samir%20Abduyev&fontSize=42&fontAlignY=40&desc=AI%20Automation%20Engineer&descSize=18&descAlignY=62" width="750" />
 </div>
-<h1 align="center">Building AI agents and automations that save businesses.</h1>
+<h1 align="center">Building AI systems that automate business workflows</h1>
 
 ---
-
-🔹 Building AI agents and workflow automation systems for businesses.
 
 ### ⚡ Tech Stack
 Python • JavaScript • n8n • PostgreSQL • Supabase • OpenAI
@@ -17,8 +15,6 @@ Python • JavaScript • n8n • PostgreSQL • Supabase • OpenAI
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-Abduyev&show_icons=true&hide_border=true)
-
-![Profile views](https://komarev.com/ghpvc/?username=Samir-Abduyev&color=blue)
 
 ---
 <p align="center">Featured Projects ↓ </p>
