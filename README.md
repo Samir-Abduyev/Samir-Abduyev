@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Samir%20Abduyev&fontSize=45&desc=AI%20Automation%20Engineer&descAlign=50&descAlignY=65)
-<h1 align="center">👋 Привет, я Samir Abduyev</h1>
 <h3 align="center">AI & Business Automation Engineer | n8n · LLM · API</h3>
 
 ---
