@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Samir%20Abduyev&fontSize=45&desc=AI%20Automation%20Engineer&descAlign=50&descAlignY=65)
-<h3 align="center">Building AI systems that automate business workflows</h3>
+<h1 align="center">Building AI agents and automations that save businesses hundreds of hours.</h1>
 
 ---
 
