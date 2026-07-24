@@ -26,11 +26,7 @@
 </p>
 
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirabd&show_icons=true&theme=transparent&hide_border=true)
-
-<p align="center">Featured Projects ↓ </p>
 
 <!--
 **Samir-Abduyev/Samir-Abduyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
