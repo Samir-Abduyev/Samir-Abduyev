@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_LINKEDIN)
 
 ### 📊 Статистика GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-Abduyev&show_icons=true&hide_border=true)
 
 ---
 <p align="center">📌 Мои проекты — в закреплённых репозиториях ниже 👇</p>
