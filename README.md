@@ -1,5 +1,7 @@
 
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Samir%20Abduyev&fontSize=45&desc=AI%20Automation%20Engineer&descAlign=50&descAlignY=65)
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&text=Samir%20Abduyev&fontSize=38&desc=AI%20Automation%20Engineer&descAlignY=58" width="750" />
+</div>
 <h1 align="center">Building AI agents and automations that save businesses.</h1>
 
 ---
