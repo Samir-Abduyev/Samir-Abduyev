@@ -17,8 +17,16 @@
 </p>
 
 ### 📫 Let's Connect
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirabd2428@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samirabdx)
+<h2>📫 Let's Connect</h2>
+
+<p align="left">
+  <a href="https://t.me/@samirabdx" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="28"/>
+  </a>
+  <a href="mailto:samirabd2428@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="28"/>
+  </a>
+</p>
 
 
 ### 📊 GitHub Stats
