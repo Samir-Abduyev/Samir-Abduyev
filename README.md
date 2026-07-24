@@ -21,7 +21,7 @@ Python • JavaScript • n8n • PostgreSQL • Supabase • OpenAI
 ![Profile views](https://komarev.com/ghpvc/?username=Samir-Abduyev&color=blue)
 
 ---
-<p align="center">📌Featured Projects ↓ </p>
+<p align="center">Featured Projects ↓ </p>
 
 <!--
 **Samir-Abduyev/Samir-Abduyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
