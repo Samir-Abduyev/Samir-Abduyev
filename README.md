@@ -13,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase"/>
   <img src="https://cdn.simpleicons.org/n8n" height="45" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" height="45" />
 </p>
 
 ### 📫 Let's Connect
