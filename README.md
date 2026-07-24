@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase"/>
-<img src="https://cdn.simpleicons.org/openai" height="45" alt="OpenAI"/>
+  <img src="./assets/openai.svg" height="42"
 <img src="https://cdn.simpleicons.org/n8n" height="45" alt="n8n"/>
   </p>
 
