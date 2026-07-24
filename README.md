@@ -26,7 +26,7 @@
 </p>
 <p align="center">
   <b>Featured Projects</b><br>
-  <sub></sub>
+  <sub>↓ ↓</sub>
 </p>
 
 <!-- Тут твой список проектов -->
