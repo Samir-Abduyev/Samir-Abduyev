@@ -4,9 +4,8 @@
 
 ---
 
-🔹 Создаю AI-ботов и автоматизации, которые экономят бизнесу часы ручной работы
+🔹 Я создаю ИИ-агентов и системы автоматизации рабочих процессов для бизнеса.
 🔹 I build AI agents and workflow automations for businesses
-🔹 Основной стек — n8n; где нужно, подключаю код и внешние сервисы
 
 ### 🛠 Навыки и инструменты
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
