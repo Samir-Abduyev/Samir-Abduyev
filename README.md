@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Samir%20Abduyev&fontSize=45&desc=AI%20Automation%20Engineer&descAlign=50&descAlignY=65)
 <h1 align="center">👋 Привет, я Samir Abduyev</h1>
-<h3 align="center">AI Automation Engineer | n8n · LLM · Telegram-боты</h3>
+<h3 align="center">AI & Business Automation Engineer | n8n · LLM · API</h3>
 
 ---
 
-🔹 Строю умных Telegram-ботов и бизнес-автоматизации на **n8n + LLM**
-🔹 Работаю с AI-агентами, RAG, базами данных и API-интеграциями
-🔹 Превращаю ручные процессы в автоматические воркфлоу
+🔹 Создаю AI-ботов и автоматизации, которые экономят бизнесу часы ручной работы
+🔹 AI-агенты, LLM, RAG, базы данных и API-интеграции
+🔹 Основной стек — n8n,code; где нужно, подключаю код и внешние сервисы
 
 ### 🛠 Навыки и инструменты
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -16,7 +16,7 @@
 ![LLM](https://img.shields.io/badge/LLM%20%2F%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black)
 ### 📫 Связаться со мной
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirabd2428@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samirabdx)
