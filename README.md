@@ -22,13 +22,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samirabdx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_LINKEDIN)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-Abduyev&layout=compact&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samir-Abduyev&hide_border=true)
-![Profile views](https://komarev.com/ghpvc/?username=Samir-Abduyev&color=blue)
-
 ### 📊 Статистика GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samir-Abduyev&show_icons=true&hide_border=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=Samir-Abduyev&color=blue)
 
 ---
 <p align="center">📌 Мои проекты — в закреплённых репозиториях ниже 👇</p>
