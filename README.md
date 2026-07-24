@@ -17,8 +17,6 @@
 </p>
 
 ### 📫 Let's Connect
-<h2>📫 Let's Connect</h2>
-
 <p align="left">
   <a href="https://t.me/@samirabdx" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="28"/>
