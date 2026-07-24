@@ -27,8 +27,9 @@
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samir-Abduyev&show_icons=true&theme=transparent&hide_border=true)
----
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirabd&show_icons=true&theme=transparent&hide_border=true)
+
 <p align="center">Featured Projects ↓ </p>
 
 <!--
