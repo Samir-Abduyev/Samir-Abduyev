@@ -18,7 +18,7 @@
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://t.me/@samirabdx" target="_blank">
+  <a href="https://t.me/samirabdx" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="28"/>
   </a>
   <a href="mailto:samirabd2428@gmail.com">
