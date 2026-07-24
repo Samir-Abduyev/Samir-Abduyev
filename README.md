@@ -24,7 +24,12 @@
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="28"/>
   </a>
 </p>
+<p align="center">
+  <b>Featured Projects</b><br>
+  <sub></sub>
+</p>
 
+<!-- Тут твой список проектов -->
 
 
 
