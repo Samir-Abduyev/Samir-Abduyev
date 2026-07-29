@@ -24,10 +24,11 @@
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="28"/>
   </a>
 </p>
-<p align="center">
-  <b>↓ Featured Projects ↓ </b><br>
-  <sub></sub>
-</p>
+### 🚀 Featured Project
+
+**[AI Customer Support Agent for Telegram](https://github.com/Samir-Abduyev/n8n-ai-support-agent)**
+
+Telegram AI agent with a RAG knowledge base on Supabase pgvector, automatic LLM failover (Groq → Gemini), lead capture into PostgreSQL and full conversation logging.
 
 <!-- Тут твой список проектов -->
 
