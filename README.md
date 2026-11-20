@@ -24,11 +24,15 @@
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="28"/>
   </a>
 </p>
-🚀 Featured Project
+🚀 Featured Projects
 
 **[AI Customer Support Agent for Telegram](https://github.com/Samir-Abduyev/n8n-ai-support-agent)**
 
 AI-powered Telegram customer support agent with a RAG knowledge base (Supabase pgvector), automatic LLM failover (Groq → Gemini), PostgreSQL lead capture, and structured conversation logging.
+
+**[Telegram Funnel Bot](https://github.com/Samir-Abduyev/telegram-funnel-bot)**
+
+Production sales funnel in Telegram: free video lessons step by step (download/forward protected), homework checks, payment receipts approved by the owner, and automatic access to a private group for paid students. Node.js, grammY, PostgreSQL; running 24/7 on a Linux VPS with monitoring and end-to-end tests.
 
 <!-- Тут твой список проектов -->
 
