@@ -10,9 +10,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase"/>
   <img src="https://cdn.simpleicons.org/n8n" height="45" alt="n8n"/>
+  <img src="https://cdn.simpleicons.org/telegram" height="45" alt="Telegram"/>
 </p>
 
 ### 📫 Let's Connect
